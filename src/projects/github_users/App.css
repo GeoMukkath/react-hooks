@@ -1,0 +1,8 @@
+.card-body {
+  background-color: aliceblue;
+}
+
+.user_image img {
+  height: 50px;
+  width: 50px;
+}
