@@ -8,6 +8,7 @@ import reportWebVitals from "./reportWebVitals";
 ReactDOM.render(
   <React.StrictMode>
     <App /> {/* Replace this code with the component you want*/}
+    {/* <Welcome />*/}
   </React.StrictMode>,
   document.getElementById("root")
 );
