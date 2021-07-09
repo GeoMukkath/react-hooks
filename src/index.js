@@ -2,15 +2,15 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./projects/github_users/App";
-import Todo from './projects/to_do_app/Todo'
+import Todo from "./projects/to_do_app/Todo";
 import Welcome from "./Welcome";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
     {/* Replace this code with the component/project you want*/}
-    <Todo />
-    {/*<App />*/} 
+    {/* <Todo /> */}
+    <App />
     {/* <Welcome />*/}
   </React.StrictMode>,
   document.getElementById("root")
